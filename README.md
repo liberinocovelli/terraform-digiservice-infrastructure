@@ -1,2 +1,2 @@
-# terraform-digiservice-infrastructure
-terraform-digiservice-infrastructure
+# terraform-digiservice-module
+terraform-digiservice-module
